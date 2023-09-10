@@ -86,6 +86,15 @@ Let's collaborate and build a brighter tech future! 🌐
       <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/> 
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azlaan20&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azlaan20)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!--
