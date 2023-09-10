@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
+</div>
 <!--
 **Azlaan20/Azlaan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
