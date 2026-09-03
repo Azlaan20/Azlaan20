@@ -2,15 +2,15 @@
 
 # Azlaan Ranjha
 
-**M.Sc. Electrical Engineering @ University of Stuttgart**
+**M.Sc. Electrical Engineering · University of Stuttgart**
 
 Machine Learning · Signal Processing · Intelligent Systems · Automation
 
 <a href="https://www.linkedin.com/in/azlaan-ranjha/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://azlaan-ranjha-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square" alt="Portfolio"/>
+<a href="https://azlaan20.github.io/headstarterai.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.kaggle.com/azlaanranjha">
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
@@ -22,98 +22,81 @@ Machine Learning · Signal Processing · Intelligent Systems · Automation
 
 ## About
 
-I am an Electrical Engineer currently pursuing an **M.Sc. in Electrical Engineering at the University of Stuttgart**.
+I am an Electrical Engineer pursuing an **M.Sc. in Electrical Engineering at the University of Stuttgart**, with experience across industrial engineering, biomedical data, signal processing, computer vision, and machine-learning-enabled systems.
 
-My technical interests lie at the intersection of **machine learning, signal processing, intelligent systems, and engineering software**, particularly where data-driven methods can be applied to real-world physical and industrial systems.
+My work sits primarily at the intersection of **machine learning, signal processing, and intelligent engineering systems**—with a particular interest in applying data-driven methods to real-world physical and industrial problems.
 
-My background includes industrial electrical and utilities engineering at **Engro Polymer & Chemicals**, biomedical-data research at **A*STAR Bioinformatics Institute, Singapore**, and projects spanning ECG acquisition and analysis, computer vision, digital signal processing, embedded systems, control, and power electronics.
+Before starting my master's, I worked as a **Graduate Trainee Engineer at Engro Polymer & Chemicals**, gaining experience with electrical utilities, power distribution, protection, industrial automation, and commissioning. I also completed research work at **A*STAR Bioinformatics Institute, Singapore**, using Python, Linux, Docker, DICOM, and medical-imaging workflows.
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Real-Time Pose Estimation & Gesture Recognition
 
-A real-time computer-vision system for human pose tracking, monocular depth estimation, and gesture recognition.
+Real-time human pose tracking, monocular depth estimation, and gesture recognition using a hybrid computer-vision pipeline.
 
-**Technologies:** Python · OpenCV · MediaPipe · MiDaS · PyTorch · SIFT
+`Python` `OpenCV` `MediaPipe` `PyTorch` `MiDaS` `SIFT`
 
-[View Repository](https://github.com/Azlaan20/Computer_Vision_Project)
-
----
+[View repository →](https://github.com/Azlaan20/Computer_Vision_Project)
 
 ### Cloud-Connected Wireless Holter Monitor
 
-A low-cost wireless ECG monitoring system combining physiological-signal acquisition, digital filtering, visualization, cloud connectivity, and neural-network-based ECG analysis.
+Low-cost wireless ECG monitoring system combining physiological-signal acquisition, digital filtering, visualization, cloud connectivity, and neural-network-based ECG analysis.
 
-The work resulted in a research publication:
+`ECG` `Signal Processing` `Python` `Embedded Systems` `Machine Learning`
 
-**Cloud-Connected Wireless Holter Monitor with Neural-Network-Based ECG Analysis**
+[Read the publication →](https://arxiv.org/abs/2310.13965)
 
-[Read Publication](https://arxiv.org/abs/2310.13965)
+### EEG Signal Filtering & Analysis
 
----
+MATLAB-based processing and analysis of EEG recordings using notch, low-pass, high-pass, and band-pass filters across clinically relevant frequency bands.
 
-### EEG Signal Filtering and Analysis
+`MATLAB` `DSP` `EEG` `Biomedical Signals`
 
-Designed and evaluated digital filters for EEG signal processing using MATLAB, including notch, low-pass, high-pass, and band-pass filtering for different EEG frequency bands.
-
-**Technologies:** MATLAB · Digital Signal Processing · Biomedical Signals
-
-[View Repository](https://github.com/Azlaan20/DSP_Semester_Project)
+[View repository →](https://github.com/Azlaan20/DSP_Semester_Project)
 
 ---
 
-## Technical Focus
+## Technical Areas
 
-### Machine Learning & Computer Vision
-
+**Machine Learning & Computer Vision**
 Python · OpenCV · PyTorch · MediaPipe · NumPy · Pandas
 
-### Signal Processing & Engineering Computing
+**Signal Processing & Engineering Computing**
+MATLAB · DSP · Biomedical Signal Processing · Simulink
 
-MATLAB · Digital Signal Processing · Biomedical Signals · Simulink
+**Engineering Systems**
+Industrial Automation · Control Systems · Embedded Systems · Power Electronics · Electrical Power Systems
 
-### Software & Engineering Tools
-
+**Development Environment**
 Linux · Docker · Git · Jupyter · VS Code
 
-### Engineering Systems
+---
 
-Embedded Systems · Industrial Automation · Control Systems · Power Electronics · Electrical Power Systems
+## Experience
+
+**Engro Polymer & Chemicals** — Graduate Trainee Engineer, Electrical & Utilities
+Industrial power generation, distribution, protection systems, automation, commissioning, and plant engineering.
+
+**A*STAR Bioinformatics Institute, Singapore** — Research Intern
+Biomedical-data processing and medical-imaging workflows using Python, Linux, Docker, DICOM, and ITK-SNAP.
+
+**Yokogawa** — Engineering Intern
+PLC, RTU, HMI, DCS, and industrial automation systems.
 
 ---
 
-## Experience Highlights
+## Current Focus
 
-**Engro Polymer & Chemicals**
-Electrical & Utilities Engineering
-Industrial power generation, electrical distribution, protection systems, automation, commissioning, and plant engineering.
-
-**A*STAR Bioinformatics Institute, Singapore**
-Research Internship
-Python-based biomedical-data workflows using Linux, Docker, DICOM, and medical-imaging tools.
-
-**Yokogawa**
-Engineering Internship
-Exposure to PLC, RTU, HMI, DCS, and industrial automation systems.
+I am currently strengthening my work in **machine learning, signal processing, computer vision, and software-enabled engineering systems**, with an emphasis on building technically rigorous projects that connect algorithms with real engineering applications.
 
 ---
 
-## Current Direction
-
-I am currently developing deeper expertise in:
-
-* Machine learning for engineering applications
-* Signal and biomedical-data processing
-* Computer vision
-* Python-based technical software
-* Intelligent and automated systems
-
----
-
-## Connect
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/azlaan-ranjha/) ·
-[Portfolio](https://azlaan-ranjha-portfolio.netlify.app/) ·
+[Portfolio](https://azlaan20.github.io/headstarterai.github.io/) ·
 [Kaggle](https://www.kaggle.com/azlaanranjha)
+
+</div>
