@@ -1,94 +1,119 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/azlaan-ranjha-1b023a107/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/azlaanranjha">
-    <img src="https://img.shields.io/badge/Kaggle-white?logo=kaggle&logoColor=blue&style=for-the-badge" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://leetcode.com/azlaanranjha15/">
-    <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
-  </a>
-</div>
-
-<div id = "Profile Viewers" align = "center">
-<img src="https://komarev.com/ghpvc/?username=Azlaan20&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="800" height="500"/>
+
+# Azlaan Ranjha
+
+**M.Sc. Electrical Engineering @ University of Stuttgart**
+
+Machine Learning · Signal Processing · Intelligent Systems · Automation
+
+<a href="https://www.linkedin.com/in/azlaan-ranjha/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://azlaan-ranjha-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square" alt="Portfolio"/>
+</a>
+<a href="https://www.kaggle.com/azlaanranjha">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
 </div>
 
 ---
 
-### :man_technologist: About Me :
-I'm Azlaan Ranjha, an Electrical Engineering student from Pakistan on a journey to explore the tech universe. 🚀
+## About
 
-🌟 **About Me:**
-- 📚 Currently pursuing a Bachelor's in Electrical Engineering.
-- 🧠 Passionate about **Data Analysis**, **Data Science**, and **Embedded Systems**.
-- 💡 Interested in **Neural Networks**, **Generative AI**, and **NLP**.
+I am an Electrical Engineer currently pursuing an **M.Sc. in Electrical Engineering at the University of Stuttgart**.
 
-🛠️ **Tech Skills:**
-- 💻 Proficient in **Python**, **C++**, **MATLAB**, and **Embedded C**.
-- 🤖 Experienced in **AI/ML**, **Computer Vision**, and **Deep Learning**.
-- ⚙️ Skilled in **Electronics**, **Circuit Design**, and **PCB**.
+My technical interests lie at the intersection of **machine learning, signal processing, intelligent systems, and engineering software**, particularly where data-driven methods can be applied to real-world physical and industrial systems.
 
-🎙️ **Talking About:**
-- 🔍 #nlp, #deeplearning, #embeddedsystems, #machinelearning, #electricalengineering.
-
-🚀 **Current Projects:**
-- ✨ [Credit-Card Fraud Detection Project](https://github.com/Azlaan20/CODSOFT/blob/main/Credit%20Card%20Fraud/Credit%20Card%20Fraud%20Detection.ipynb): I built a model to detect fraudulent credit card transactions using a dataset containing transaction information. I experimented with algorithms like Logistic Regression, Decision Trees, and Random Forests to classify transactions as fraudulent or legitimate.
-- ✨ [Spam SMS Detection](https://github.com/Azlaan20/CODSOFT/blob/main/SMS%20Spam%20Detection/SMS%20Spam%20Detection.ipynb): It involved building an AI model to classify SMS messages as spam or legitimate. I employed techniques like TF-IDF and classifiers like Naive Bayes, Logistic Regression, and Support Vector Machines to identify spam messages.
-
-📫 **Connect with Me:**
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-AzlaanRanjha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azlaan-ranjha-1b023a107/)
-- Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-AzlaanRanjha-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/azlaanranjha)
-
-Let's collaborate and build a brighter tech future! 🌐
+My background includes industrial electrical and utilities engineering at **Engro Polymer & Chemicals**, biomedical-data research at **A*STAR Bioinformatics Institute, Singapore**, and projects spanning ECG acquisition and analysis, computer vision, digital signal processing, embedded systems, control, and power electronics.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## Selected Projects
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg"  title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV"  alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" **alt="Putty" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain-wordmark.svg" title="Embedded C" **alt="Embedded C" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="Microsoft .NET" **alt="Microsoft .NET" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="MATLAB" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="XCode" **alt="XCode" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/> 
-</div>
+### Real-Time Pose Estimation & Gesture Recognition
+
+A real-time computer-vision system for human pose tracking, monocular depth estimation, and gesture recognition.
+
+**Technologies:** Python · OpenCV · MediaPipe · MiDaS · PyTorch · SIFT
+
+[View Repository](https://github.com/Azlaan20/Computer_Vision_Project)
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azlaan20&theme=dark&background=000000)](https://git.io/streak-stats)
+### Cloud-Connected Wireless Holter Monitor
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azlaan20)](https://github.com/anuraghazra/github-readme-stats)
+A low-cost wireless ECG monitoring system combining physiological-signal acquisition, digital filtering, visualization, cloud connectivity, and neural-network-based ECG analysis.
+
+The work resulted in a research publication:
+
+**Cloud-Connected Wireless Holter Monitor with Neural-Network-Based ECG Analysis**
+
+[Read Publication](https://arxiv.org/abs/2310.13965)
+
+---
+
+### EEG Signal Filtering and Analysis
+
+Designed and evaluated digital filters for EEG signal processing using MATLAB, including notch, low-pass, high-pass, and band-pass filtering for different EEG frequency bands.
+
+**Technologies:** MATLAB · Digital Signal Processing · Biomedical Signals
+
+[View Repository](https://github.com/Azlaan20/DSP_Semester_Project)
+
+---
+
+## Technical Focus
+
+### Machine Learning & Computer Vision
+
+Python · OpenCV · PyTorch · MediaPipe · NumPy · Pandas
+
+### Signal Processing & Engineering Computing
+
+MATLAB · Digital Signal Processing · Biomedical Signals · Simulink
+
+### Software & Engineering Tools
+
+Linux · Docker · Git · Jupyter · VS Code
+
+### Engineering Systems
+
+Embedded Systems · Industrial Automation · Control Systems · Power Electronics · Electrical Power Systems
+
+---
+
+## Experience Highlights
+
+**Engro Polymer & Chemicals**
+Electrical & Utilities Engineering
+Industrial power generation, electrical distribution, protection systems, automation, commissioning, and plant engineering.
+
+**A*STAR Bioinformatics Institute, Singapore**
+Research Internship
+Python-based biomedical-data workflows using Linux, Docker, DICOM, and medical-imaging tools.
+
+**Yokogawa**
+Engineering Internship
+Exposure to PLC, RTU, HMI, DCS, and industrial automation systems.
+
+---
+
+## Current Direction
+
+I am currently developing deeper expertise in:
+
+* Machine learning for engineering applications
+* Signal and biomedical-data processing
+* Computer vision
+* Python-based technical software
+* Intelligent and automated systems
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/azlaan-ranjha/) ·
+[Portfolio](https://azlaan-ranjha-portfolio.netlify.app/) ·
+[Kaggle](https://www.kaggle.com/azlaanranjha)
